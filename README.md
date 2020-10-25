@@ -3,6 +3,6 @@ A .sh file to install all the necessary files needed to configure your newbuntu 
 
 
 REQUIRES GIT
-'''bash 
+''' bash 
 sudo apt install git 
 '''
